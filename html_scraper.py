@@ -1,4 +1,3 @@
-#Christina Eng
 #HTML scraper
 
 from bs4 import BeautifulSoup
