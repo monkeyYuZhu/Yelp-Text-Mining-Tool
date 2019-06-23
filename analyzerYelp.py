@@ -1,5 +1,5 @@
 """
-@author: Yu Zhu, Christina Eng
+@author: Yu Zhu
 
 The important dataset to get the conclusion of hightlight for each of the restaurant:
     TF-IDFList (tfidf_words) every restaurant's top topics score record to augment LDA analysis, 
