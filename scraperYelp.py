@@ -1,5 +1,5 @@
 """
-@author: Christina Eng, Yu Zhu
+@author: Yu Zhu
 """
 
 # ------------------------------------Function to get the data from the Yelp.com------------------------------------ #
